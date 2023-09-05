@@ -75,3 +75,7 @@
   list-style-type: disc;
   margin-left: 20px;
 }
+
+.greeting {
+  text-align: center;
+  }
